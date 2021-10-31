@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tcs-org-369505/Space%20Game%20-%20Web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=code-coverage)](https://dev.azure.com/tcs-org-369505/Space%20Game%20-%20Web%20-%20Tests/_build/latest?definitionId=3&branchName=code-coverage)
 
 # Contributing
 
